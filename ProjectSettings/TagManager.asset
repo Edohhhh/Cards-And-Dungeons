@@ -3,26 +3,23 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags:
-  - MainCharacter
-  - Enemigos
-  - Teleporter
+  tags: []
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - Props
+  - 
   - Water
   - UI
-  - Paredes
-  - Piso
   - 
   - 
   - 
   - 
   - 
   - 
-  - Tilemap
+  - 
+  - 
+  - 
   - 
   - 
   - 

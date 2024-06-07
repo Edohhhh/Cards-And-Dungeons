@@ -1,0 +1,1667 @@
+fileFormatVersion: 2
+guid: d1b275467e1139041bdf78d8c8691bca
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Edoado_elderique_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1470
+        width: 80
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f61630f423bbf84699a0ab6dc318aef
+      internalID: -1040426733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1470
+        width: 80
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878c3584d81e3254fa21a05d574cf02d
+      internalID: -1807755565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_2
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1470
+        width: 80
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2a3edf54082af42be7d5cde508485a
+      internalID: -817697806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_3
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1340
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1caa578504b6c4fbbab4802ebc9d7c
+      internalID: -490362409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_4
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1340
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58723d94e53b38548b27d6016392b2df
+      internalID: -1395888103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_5
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1340
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ca2eca1f28a854ba86ee5a79fbf745
+      internalID: 516272723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_6
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1210
+        width: 80
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923255fee8bd88d40a3c4b032443c6c4
+      internalID: 1532577201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_7
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1080
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9986d72d6385c409c2df7689ea591d
+      internalID: -1609224085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_8
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1080
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e0a718c13860d4bb36d2880dbeb460
+      internalID: -199333554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_9
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1080
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8958bb4429bdb45b8ca123762e0648
+      internalID: -867570001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_10
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 950
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b690c4d451bbdd34ab43dba829f26621
+      internalID: -1279201286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_11
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 960
+        width: 75
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959c5fbd332de2743887946fe147a564
+      internalID: -117455225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_12
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 950
+        width: 70
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b79cad790fe70d4298ac29d42a80e6a
+      internalID: 2145434607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_13
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 950
+        width: 70
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9cf1c261f4cc94983d0281b80d12ed
+      internalID: 401962137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_14
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 950
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f2ebfabb10cbd4b9d07f900cf9c5bb
+      internalID: 1034784255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_15
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 950
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa72d3d4df593e94882f4deb3abc2549
+      internalID: 1301300629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_16
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 960
+        width: 75
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc49098014f6b5a4fb5d21d1608813b5
+      internalID: -774990809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_17
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 950
+        width: 70
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6755a2d58261624daccf7d6eaebd51f
+      internalID: 2129741229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_18
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 950
+        width: 70
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18564a1dbc1686a499b3e3848e13c946
+      internalID: -420922429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_19
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 950
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43406f221dfe7b469343ef5bb8b5621
+      internalID: 628482805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_20
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 820
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae51dbdfce437e43af317eecef4a569
+      internalID: 800627336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_21
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 825
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b0b9c6dea36cf4d81a30499da2c346
+      internalID: 677371119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_22
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 835
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612c312be55c15a438eea859ca553e1a
+      internalID: 1940343243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_23
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 825
+        width: 75
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e8a6d88ca1cec47aee6360961926ec
+      internalID: -1179885190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_24
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 825
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1fbbce9e207654b9b28c35e2531fe3
+      internalID: -1571154783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_25
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 820
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad00b23c19de48438ff485e3bb66347
+      internalID: -946195371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_26
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 820
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debf5f6c5b70846498f07fdab24f7d23
+      internalID: 359617386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_27
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 830
+        width: 90
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a89fcd4272301847bee7f4690615723
+      internalID: 591750983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_28
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 830
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0fa2b052adcec4e8d4ad2bd20ff874
+      internalID: 1509253222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_29
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 825
+        width: 75
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbfd5e0a0d091e469ee23782cc64488
+      internalID: -436241083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_30
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 700
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b684215482427a845a17e0d019419be7
+      internalID: -1020760905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_31
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 700
+        width: 70
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73387e904f49ec54db16996cdbe8c18f
+      internalID: -120965237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_32
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 700
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a817cad9b09674c9f78bdbc638e667
+      internalID: 415106437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_33
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 700
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2abfe986e36b62541a8b5f45e0aff706
+      internalID: -1269152993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_34
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 700
+        width: 75
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f977a07cbb1b6343b045d6fed8925ce
+      internalID: 1877633222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_35
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 700
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba9eddedfda1854ab29672d221b7791
+      internalID: 172434814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_36
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 700
+        width: 70
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbf7cb7b3216974699844e75d6c8e0e
+      internalID: -1686984123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_37
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 700
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6917d88e983004740adfe31b37323a79
+      internalID: 1949773436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_38
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 695
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a2299558a59814b86c8bce4c29833b
+      internalID: -1447198785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_39
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 700
+        width: 75
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93c5e79d58c2b1448acaee41d7ab09f
+      internalID: -2131768127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_40
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 561
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505ba964a90b458409e1c86a6f5693ce
+      internalID: -223729355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_41
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 567
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d737b2a1f4495bf4da8e0e822bdd8be1
+      internalID: -1208510811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_42
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 572
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c39864f4b73e49429f36d7a256d7c99
+      internalID: 878130534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_43
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 562
+        width: 75
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213035a3e7d96c24c9b322f69d0bac8c
+      internalID: 2068675809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_44
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 562
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672af05a156ebb24388705383b915cea
+      internalID: -370395693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_45
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 562
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2299d065fbe1a741b7eeaa13e9aed93
+      internalID: -972600582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_46
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 562
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2039aea65f248d444b5ca614e89bc6e1
+      internalID: 631037733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_47
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 567
+        width: 90
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f528b3cfea7ff1742959caf19f7374a2
+      internalID: 1096174134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_48
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 567
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0785bf719eadb1742909a82335be91df
+      internalID: -1605887880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_49
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 562
+        width: 75
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d0bdfd0ef5bfa4d9f75ca55f82f233
+      internalID: 1687490323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_50
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 437
+        width: 70
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4b73be973a86b409ff83fc6b392f95
+      internalID: 355893961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_51
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 437
+        width: 70
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455cdcc9dc2ad5d44a8e419b00fc4427
+      internalID: -556476899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_52
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 437
+        width: 70
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e16bade8ec9f843a018464da75a86d
+      internalID: -1515242863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_53
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 437
+        width: 70
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec14f469ffcb574ebe5132a2a0db85c
+      internalID: 1458852689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_54
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 437
+        width: 70
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a4b8e3bf4249c4bb00271466b7f560
+      internalID: 1037633124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_55
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 295
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7c04328fdf9fc41871da026845121b
+      internalID: -1099985196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_56
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 295
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db202c2e8cd5e94eb8ce7011adf9e92
+      internalID: 1321635496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_57
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 295
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4329af0fa55cd6c4b9b565386fe3fe13
+      internalID: 1538851375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_58
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 295
+        width: 69
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d7fe79dcc75b64f9ca5552197b02e5
+      internalID: 1229244218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_59
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 295
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64817fc08442d614aa645c878b5382ab
+      internalID: -338306324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_60
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 157
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5540036428268e4e9ea8b46d9cb2cee
+      internalID: -251887261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_61
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 157
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb67c25cae710b47829c915b4df090c
+      internalID: 1509836283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_62
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 157
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac09673d51a9e649b4780ecb08d4281
+      internalID: 1506961210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_63
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 157
+        width: 69
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d1d7772e757dd41877951531f415a3
+      internalID: -178567302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_64
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 157
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c608a088c8bccc4596e0240cd378e26
+      internalID: 302886533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_65
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 33
+        width: 70
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a78382af5f487747b5573546364f1d7
+      internalID: -1749860559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_66
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 33
+        width: 70
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f9f4b1f8580eb4395b00cfb5672acf
+      internalID: 609636033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_67
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 33
+        width: 70
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28dcc414a286c4a4781add16669763e6
+      internalID: -1888377107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_68
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 34
+        width: 70
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2bd0ad1de7c48a4092bc8a864189a5b
+      internalID: -972134908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado_elderique_69
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 34
+        width: 70
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279064c90fc6f7042a4e6d9c9f79dd80
+      internalID: 1914554857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Edoado_elderique_0: -1040426733
+      Edoado_elderique_1: -1807755565
+      Edoado_elderique_10: -1279201286
+      Edoado_elderique_11: -117455225
+      Edoado_elderique_12: 2145434607
+      Edoado_elderique_13: 401962137
+      Edoado_elderique_14: 1034784255
+      Edoado_elderique_15: 1301300629
+      Edoado_elderique_16: -774990809
+      Edoado_elderique_17: 2129741229
+      Edoado_elderique_18: -420922429
+      Edoado_elderique_19: 628482805
+      Edoado_elderique_2: -817697806
+      Edoado_elderique_20: 800627336
+      Edoado_elderique_21: 677371119
+      Edoado_elderique_22: 1940343243
+      Edoado_elderique_23: -1179885190
+      Edoado_elderique_24: -1571154783
+      Edoado_elderique_25: -946195371
+      Edoado_elderique_26: 359617386
+      Edoado_elderique_27: 591750983
+      Edoado_elderique_28: 1509253222
+      Edoado_elderique_29: -436241083
+      Edoado_elderique_3: -490362409
+      Edoado_elderique_30: -1020760905
+      Edoado_elderique_31: -120965237
+      Edoado_elderique_32: 415106437
+      Edoado_elderique_33: -1269152993
+      Edoado_elderique_34: 1877633222
+      Edoado_elderique_35: 172434814
+      Edoado_elderique_36: -1686984123
+      Edoado_elderique_37: 1949773436
+      Edoado_elderique_38: -1447198785
+      Edoado_elderique_39: -2131768127
+      Edoado_elderique_4: -1395888103
+      Edoado_elderique_40: -223729355
+      Edoado_elderique_41: -1208510811
+      Edoado_elderique_42: 878130534
+      Edoado_elderique_43: 2068675809
+      Edoado_elderique_44: -370395693
+      Edoado_elderique_45: -972600582
+      Edoado_elderique_46: 631037733
+      Edoado_elderique_47: 1096174134
+      Edoado_elderique_48: -1605887880
+      Edoado_elderique_49: 1687490323
+      Edoado_elderique_5: 516272723
+      Edoado_elderique_50: 355893961
+      Edoado_elderique_51: -556476899
+      Edoado_elderique_52: -1515242863
+      Edoado_elderique_53: 1458852689
+      Edoado_elderique_54: 1037633124
+      Edoado_elderique_55: -1099985196
+      Edoado_elderique_56: 1321635496
+      Edoado_elderique_57: 1538851375
+      Edoado_elderique_58: 1229244218
+      Edoado_elderique_59: -338306324
+      Edoado_elderique_6: 1532577201
+      Edoado_elderique_60: -251887261
+      Edoado_elderique_61: 1509836283
+      Edoado_elderique_62: 1506961210
+      Edoado_elderique_63: -178567302
+      Edoado_elderique_64: 302886533
+      Edoado_elderique_65: -1749860559
+      Edoado_elderique_66: 609636033
+      Edoado_elderique_67: -1888377107
+      Edoado_elderique_68: -972134908
+      Edoado_elderique_69: 1914554857
+      Edoado_elderique_7: -1609224085
+      Edoado_elderique_8: -199333554
+      Edoado_elderique_9: -867570001
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

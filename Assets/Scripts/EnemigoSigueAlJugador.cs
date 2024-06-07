@@ -40,5 +40,11 @@ public class EnemigoSigueAlJugador : MonoBehaviour
         else
             transform.rotation = quaternion.Euler(0,100, 0);
     }
+
+    public void Lento(float relentizar)
+    {
+        speed -= relentizar;
+    }
+
 }
 

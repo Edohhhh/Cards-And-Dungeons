@@ -42,7 +42,6 @@ public class Disparo : MonoBehaviour
 
     private void Disparar()
     {
-
     Instantiate(bala, controladorDisparo.position, controladorDisparo.rotation);
     }
 
