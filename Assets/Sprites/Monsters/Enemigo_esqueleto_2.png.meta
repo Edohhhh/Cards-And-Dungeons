@@ -1,0 +1,985 @@
+fileFormatVersion: 2
+guid: 3d67ecb5d7183b34c8214d63941e8976
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemigo_esqueleto_2_0
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1596
+        width: 104
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dfcc003acf0a034a94015ea0f4ec895
+      internalID: -511616522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_esqueleto_2_1
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1596
+        width: 104
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3b4d6b53276eb4b8b0b21d4e5587c8
+      internalID: -2039974320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_esqueleto_2_2
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1596
+        width: 104
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e146b35e834938247bd36a6fc1bb594f
+      internalID: -815152063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_esqueleto_2_3
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1596
+        width: 104
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0276375ef052b349948b2abadda6143
+      internalID: -1274406386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_esqueleto_2_4
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 1596
+        width: 104
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346903c694d4b614a9db9542c4286c8a
+      internalID: 118841232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_esqueleto_2_5
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 1596
+        width: 104
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b15c18ac6fc44408d0a5b50a4f92f5
+      internalID: -674415464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_esqueleto_2_6
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1340
+        width: 104
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aafb9a985b1ff84b97487ef3d413c1c
+      internalID: -850759692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_esqueleto_2_7
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1340
+        width: 144
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a7655de50dcdd408bc5792fee9326c
+      internalID: 177411296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_esqueleto_2_8
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1340
+        width: 144
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3da4a8a862219d4db092c685af09f82
+      internalID: -1126064762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_esqueleto_2_9
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1340
+        width: 144
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a5b3ca15ec68549a78123f145fd237
+      internalID: 473665898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_esqueleto_2_10
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1340
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a99da739e876a24b8e00fc2ae1a3626
+      internalID: 1359679897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_esqueleto_2_11
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 1336
+        width: 144
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb50af18ffaf32448f1d6b09fbef981
+      internalID: 1780472788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_esqueleto_2_12
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1084
+        width: 144
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c7cbb3fff859b4eb0cf7d18da44bce
+      internalID: -1882349726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_esqueleto_2_13
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1084
+        width: 144
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67e28b5c456a774482d3a9f80b61e52
+      internalID: -613186666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_esqueleto_2_14
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1084
+        width: 144
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64076f5b49a0da43bbd52fdda96f23e
+      internalID: -290902024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_esqueleto_2_15
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1084
+        width: 144
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5878b6b320b58b4d8c3c416445e14fa
+      internalID: 613919709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_esqueleto_2_16
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1084
+        width: 144
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7843e70c79f6946bcb15e13107f3d7
+      internalID: 1362172549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_esqueleto_2_17
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 1084
+        width: 144
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6652a090ce429ba42b93c6d22a749f5b
+      internalID: -630674198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_esqueleto_2_18
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 828
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95a3f8b1c1dda64d85112b64cfe2407
+      internalID: 898750539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_esqueleto_2_19
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 828
+        width: 144
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c5b51ba2901ed4e963f9805b185f0e
+      internalID: -69870348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_esqueleto_2_20
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 828
+        width: 144
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fdbd2627acb0d4f8beba3045d0bc49
+      internalID: 751683919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_esqueleto_2_21
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 828
+        width: 144
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b069d1e845abf614dbc3107a3bd98915
+      internalID: -754243447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_esqueleto_2_22
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 828
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36174c3afb067cf42b855aec92d7b335
+      internalID: -1711833781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_esqueleto_2_23
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 828
+        width: 104
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e36eb6a64e8ae4889d127161664dc1
+      internalID: 1973669638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_esqueleto_2_24
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 572
+        width: 104
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460b325f08016e8449a84ff52d047c03
+      internalID: 570543618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_esqueleto_2_25
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 572
+        width: 104
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd7c4e1c4ef5db49a38acfca6e8a789
+      internalID: -381864727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_esqueleto_2_26
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 572
+        width: 104
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3953791dc242dfc4f98a0b87a03d04d5
+      internalID: 2050964490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_esqueleto_2_27
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 572
+        width: 152
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05216a8a6c0981489087be6e0f98de0
+      internalID: 1547977767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_esqueleto_2_28
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 572
+        width: 168
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1163e3c0dd751104b883d84fb337dae9
+      internalID: -2098397900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_esqueleto_2_29
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 572
+        width: 168
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c0f512a5cf76f46a50c9966f50a60d
+      internalID: 442542650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_esqueleto_2_30
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 316
+        width: 168
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd4ab1d7e936ca48ae5b791cdb9555a
+      internalID: 1339244450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_esqueleto_2_31
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 316
+        width: 168
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec8f352d0f387648be1d4d62fe64d01
+      internalID: -1486819258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_esqueleto_2_32
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 316
+        width: 168
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ef398c4abf94542a8d9dad30e0df34
+      internalID: -1296836217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_esqueleto_2_33
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 316
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c635f4ccd979ea4d9eab963979370f1
+      internalID: -2276046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_esqueleto_2_34
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 316
+        width: 104
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1e2dc8ca9e1654eba2d228cb89db0a
+      internalID: 1127291932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_esqueleto_2_35
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 316
+        width: 104
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da003e1abdf5ef408132315782b0e05
+      internalID: -530552171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_esqueleto_2_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 176
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31af16a81620804182570916f42f05b
+      internalID: 604970765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_esqueleto_2_37
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 60
+        width: 188
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7135c0a178461459ad2a7e9adda7e8
+      internalID: -920538104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_esqueleto_2_38
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 60
+        width: 204
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09df61edceb1946459820f7285198d3d
+      internalID: -1348005475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Enemigo_esqueleto_2_0: -511616522
+      Enemigo_esqueleto_2_1: -2039974320
+      Enemigo_esqueleto_2_10: 1359679897
+      Enemigo_esqueleto_2_11: 1780472788
+      Enemigo_esqueleto_2_12: -1882349726
+      Enemigo_esqueleto_2_13: -613186666
+      Enemigo_esqueleto_2_14: -290902024
+      Enemigo_esqueleto_2_15: 613919709
+      Enemigo_esqueleto_2_16: 1362172549
+      Enemigo_esqueleto_2_17: -630674198
+      Enemigo_esqueleto_2_18: 898750539
+      Enemigo_esqueleto_2_19: -69870348
+      Enemigo_esqueleto_2_2: -815152063
+      Enemigo_esqueleto_2_20: 751683919
+      Enemigo_esqueleto_2_21: -754243447
+      Enemigo_esqueleto_2_22: -1711833781
+      Enemigo_esqueleto_2_23: 1973669638
+      Enemigo_esqueleto_2_24: 570543618
+      Enemigo_esqueleto_2_25: -381864727
+      Enemigo_esqueleto_2_26: 2050964490
+      Enemigo_esqueleto_2_27: 1547977767
+      Enemigo_esqueleto_2_28: -2098397900
+      Enemigo_esqueleto_2_29: 442542650
+      Enemigo_esqueleto_2_3: -1274406386
+      Enemigo_esqueleto_2_30: 1339244450
+      Enemigo_esqueleto_2_31: -1486819258
+      Enemigo_esqueleto_2_32: -1296836217
+      Enemigo_esqueleto_2_33: -2276046
+      Enemigo_esqueleto_2_34: 1127291932
+      Enemigo_esqueleto_2_35: -530552171
+      Enemigo_esqueleto_2_36: 604970765
+      Enemigo_esqueleto_2_37: -920538104
+      Enemigo_esqueleto_2_38: -1348005475
+      Enemigo_esqueleto_2_4: 118841232
+      Enemigo_esqueleto_2_5: -674415464
+      Enemigo_esqueleto_2_6: -850759692
+      Enemigo_esqueleto_2_7: 177411296
+      Enemigo_esqueleto_2_8: -1126064762
+      Enemigo_esqueleto_2_9: 473665898
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

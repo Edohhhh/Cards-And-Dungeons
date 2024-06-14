@@ -1,0 +1,732 @@
+fileFormatVersion: 2
+guid: 881beea1031f60a449a1af8741237e2a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Edoado elderique con ataque definitivo-1.png_50
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 437
+        width: 90
+        height: 100
+      alignment: 9
+      pivot: {x: 0.3856068, y: 0.64871305}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3312d3333afd582468952ab083a240a9
+      internalID: -2077852670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado elderique con ataque definitivo-1.png_54
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 412
+        width: 80
+        height: 125
+      alignment: 9
+      pivot: {x: 0.56077194, y: 0.7196365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cdc4308b9add4e4385aa118bcfce055
+      internalID: 1010372135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado elderique con ataque definitivo-1.png_55
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 437
+        width: 95
+        height: 100
+      alignment: 9
+      pivot: {x: 0.63245595, y: 0.65443206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dada23bf220ee8c468c3635522e91ff9
+      internalID: 178035447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado elderique con ataque definitivo-1.png_56
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 434
+        width: 90
+        height: 100
+      alignment: 9
+      pivot: {x: 0.608039, y: 0.651572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf2bad86d8628247bedd75c94b60019
+      internalID: 846205252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado elderique con ataque definitivo-1.png_59
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 295
+        width: 70
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5786517, y: 0.6808297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8634d36b64b48d74d8c2c3c1a08aa2a3
+      internalID: -350895243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado elderique con ataque definitivo-1.png_60
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 294
+        width: 85
+        height: 110
+      alignment: 9
+      pivot: {x: 0.4707482, y: 0.69051707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42071a52a143c3541a644dc6ccd91e70
+      internalID: 929308839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado elderique con ataque definitivo-1.png_61
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 295
+        width: 105
+        height: 110
+      alignment: 9
+      pivot: {x: 0.38329118, y: 0.6808297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03eb88a2c6f74894ea3453cabdbd3e13
+      internalID: 2097982977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado elderique con ataque definitivo-1.png_62
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 290
+        width: 95
+        height: 115
+      alignment: 9
+      pivot: {x: 0.4233514, y: 0.6961325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc2cad9eb813d24c9b4e7984b990d10
+      internalID: 592336652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado elderique con ataque definitivo-1.png_63
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 295
+        width: 85
+        height: 110
+      alignment: 9
+      pivot: {x: 0.6379014, y: 0.6792156}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6f506928e5981499514ee7632ed061
+      internalID: 55507124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado elderique con ataque definitivo-1.png_64
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 296
+        width: 85
+        height: 110
+      alignment: 9
+      pivot: {x: 0.6379014, y: 0.68244433}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6acc866cce0283146b924b96042451ee
+      internalID: -705719940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado elderique con ataque definitivo-1.png_65
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 157
+        width: 70
+        height: 110
+      alignment: 9
+      pivot: {x: 0.42742848, y: 0.72531223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a5d1b4c8f990c48a7937d23c6a8605
+      internalID: -341889788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado elderique con ataque definitivo-1.png_66
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 157
+        width: 85
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5289768, y: 0.72671175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af8ea2b7338b2b479f4719cce52049d
+      internalID: -1555200694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado elderique con ataque definitivo-1.png_67
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 157
+        width: 105
+        height: 110
+      alignment: 9
+      pivot: {x: 0.6172872, y: 0.72671175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0cafbebd240d6f4ab41df7a5fc0ae49
+      internalID: 119093460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado elderique con ataque definitivo-1.png_68
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 152
+        width: 95
+        height: 115
+      alignment: 9
+      pivot: {x: 0.57778, y: 0.73827225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d579aff0d4528264da8d14989c13ac1e
+      internalID: -1530597380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado elderique con ataque definitivo-1.png_69
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 157
+        width: 85
+        height: 110
+      alignment: 9
+      pivot: {x: 0.35149285, y: 0.72811127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65d8f3a9a26f1040a90fd53970ddf22
+      internalID: -29501756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado elderique con ataque definitivo-1.png_70
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 159
+        width: 85
+        height: 110
+      alignment: 9
+      pivot: {x: 0.34968263, y: 0.7267112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e318ed763f48da442a0fa6b9b673d6f2
+      internalID: -1314804548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado elderique con ataque definitivo-1.png_71
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 17
+        width: 90
+        height: 111
+      alignment: 9
+      pivot: {x: 0.6113101, y: 0.59454936}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1331c6cd820684e9dbb9cca8ed03fb
+      internalID: 2078371496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado elderique con ataque definitivo-1.png_72
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 33
+        width: 100
+        height: 95
+      alignment: 9
+      pivot: {x: 0.6480928, y: 0.5275908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf3eaa8020f5524caa8cd6fa18bc611
+      internalID: -888539410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado elderique con ataque definitivo-1.png_74
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 33
+        width: 105
+        height: 104
+      alignment: 9
+      pivot: {x: 0.6647557, y: 0.48109767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8503afeff28659f42bddb4dfcbbbdc23
+      internalID: 893985465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado elderique con ataque definitivo-1.png_75
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 34
+        width: 80
+        height: 110
+      alignment: 9
+      pivot: {x: 0.43774834, y: 0.45353484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af13fc038f82b9c408be08eb889433c7
+      internalID: -555578670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado elderique con ataque definitivo-1.png_76
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 29
+        width: 95
+        height: 100
+      alignment: 9
+      pivot: {x: 0.31376246, y: 0.55242264}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1979cbdfe46b1b9428fe821dc352042f
+      internalID: -323155635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado elderique con ataque definitivo-1.png_77
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 32
+        width: 90
+        height: 99
+      alignment: 9
+      pivot: {x: 0.3320143, y: 0.5474654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478220a153058f5489e63ef9af208371
+      internalID: 517309883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado elderique con ataque definitivo-1.png_0
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 417
+        width: 105
+        height: 120
+      alignment: 9
+      pivot: {x: 0.3319025, y: 0.70755386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54bf075c75dbe3240bcacadec94d5137
+      internalID: -206446281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado elderique con ataque definitivo-1.png_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 427
+        width: 102
+        height: 110
+      alignment: 9
+      pivot: {x: 0.3403141, y: 0.6811637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab661cf4ef4f20b4d9f705c8d7df41de
+      internalID: -1419400380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edoado elderique con ataque definitivo-1.png_79
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 59
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36b7909df2a13440ac8905546941f7d
+      internalID: -837964360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Edoado elderique con ataque definitivo-1.png_0: -206446281
+      Edoado elderique con ataque definitivo-1.png_1: -1419400380
+      Edoado elderique con ataque definitivo-1.png_10: -1893489471
+      Edoado elderique con ataque definitivo-1.png_11: -445191436
+      Edoado elderique con ataque definitivo-1.png_12: 1653290176
+      Edoado elderique con ataque definitivo-1.png_13: -1078700521
+      Edoado elderique con ataque definitivo-1.png_14: 267853818
+      Edoado elderique con ataque definitivo-1.png_15: -592088289
+      Edoado elderique con ataque definitivo-1.png_16: 1497311240
+      Edoado elderique con ataque definitivo-1.png_17: -250643369
+      Edoado elderique con ataque definitivo-1.png_18: -2112182257
+      Edoado elderique con ataque definitivo-1.png_19: 1586189387
+      Edoado elderique con ataque definitivo-1.png_2: 1127162500
+      Edoado elderique con ataque definitivo-1.png_20: -51673035
+      Edoado elderique con ataque definitivo-1.png_21: -129989590
+      Edoado elderique con ataque definitivo-1.png_22: -801767344
+      Edoado elderique con ataque definitivo-1.png_23: -763790196
+      Edoado elderique con ataque definitivo-1.png_24: 866418596
+      Edoado elderique con ataque definitivo-1.png_25: -377008913
+      Edoado elderique con ataque definitivo-1.png_26: -719861947
+      Edoado elderique con ataque definitivo-1.png_27: -521517099
+      Edoado elderique con ataque definitivo-1.png_28: 34673409
+      Edoado elderique con ataque definitivo-1.png_29: -1040915509
+      Edoado elderique con ataque definitivo-1.png_3: 1497670257
+      Edoado elderique con ataque definitivo-1.png_30: 824912058
+      Edoado elderique con ataque definitivo-1.png_31: -526180508
+      Edoado elderique con ataque definitivo-1.png_32: 1506015397
+      Edoado elderique con ataque definitivo-1.png_33: 1133624799
+      Edoado elderique con ataque definitivo-1.png_34: 471551433
+      Edoado elderique con ataque definitivo-1.png_35: -289499012
+      Edoado elderique con ataque definitivo-1.png_36: -872574082
+      Edoado elderique con ataque definitivo-1.png_37: 1262389462
+      Edoado elderique con ataque definitivo-1.png_38: -906940413
+      Edoado elderique con ataque definitivo-1.png_39: -1465942506
+      Edoado elderique con ataque definitivo-1.png_4: 1953164486
+      Edoado elderique con ataque definitivo-1.png_40: -1216086981
+      Edoado elderique con ataque definitivo-1.png_41: -587641219
+      Edoado elderique con ataque definitivo-1.png_42: 1188166162
+      Edoado elderique con ataque definitivo-1.png_43: -1328067117
+      Edoado elderique con ataque definitivo-1.png_44: 373472437
+      Edoado elderique con ataque definitivo-1.png_45: -209972505
+      Edoado elderique con ataque definitivo-1.png_46: -1544216701
+      Edoado elderique con ataque definitivo-1.png_47: -2133722044
+      Edoado elderique con ataque definitivo-1.png_48: 454220836
+      Edoado elderique con ataque definitivo-1.png_49: -41774710
+      Edoado elderique con ataque definitivo-1.png_5: -983021548
+      Edoado elderique con ataque definitivo-1.png_50: -2077852670
+      Edoado elderique con ataque definitivo-1.png_51: -1684340325
+      Edoado elderique con ataque definitivo-1.png_52: -1685278228
+      Edoado elderique con ataque definitivo-1.png_53: -184790667
+      Edoado elderique con ataque definitivo-1.png_54: 1010372135
+      Edoado elderique con ataque definitivo-1.png_55: 178035447
+      Edoado elderique con ataque definitivo-1.png_56: 846205252
+      Edoado elderique con ataque definitivo-1.png_57: -1599543926
+      Edoado elderique con ataque definitivo-1.png_58: 410497415
+      Edoado elderique con ataque definitivo-1.png_59: -350895243
+      Edoado elderique con ataque definitivo-1.png_6: -1352431299
+      Edoado elderique con ataque definitivo-1.png_60: 929308839
+      Edoado elderique con ataque definitivo-1.png_61: 2097982977
+      Edoado elderique con ataque definitivo-1.png_62: 592336652
+      Edoado elderique con ataque definitivo-1.png_63: 55507124
+      Edoado elderique con ataque definitivo-1.png_64: -705719940
+      Edoado elderique con ataque definitivo-1.png_65: -341889788
+      Edoado elderique con ataque definitivo-1.png_66: -1555200694
+      Edoado elderique con ataque definitivo-1.png_67: 119093460
+      Edoado elderique con ataque definitivo-1.png_68: -1530597380
+      Edoado elderique con ataque definitivo-1.png_69: -29501756
+      Edoado elderique con ataque definitivo-1.png_7: 706581493
+      Edoado elderique con ataque definitivo-1.png_70: -1314804548
+      Edoado elderique con ataque definitivo-1.png_71: 2078371496
+      Edoado elderique con ataque definitivo-1.png_72: -888539410
+      Edoado elderique con ataque definitivo-1.png_73: -261084329
+      Edoado elderique con ataque definitivo-1.png_74: 893985465
+      Edoado elderique con ataque definitivo-1.png_75: -555578670
+      Edoado elderique con ataque definitivo-1.png_76: -323155635
+      Edoado elderique con ataque definitivo-1.png_77: 517309883
+      Edoado elderique con ataque definitivo-1.png_78: 1907566791
+      Edoado elderique con ataque definitivo-1.png_79: -837964360
+      Edoado elderique con ataque definitivo-1.png_8: 762863076
+      Edoado elderique con ataque definitivo-1.png_9: -810877230
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,42 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class EnemyLanzallamas : MonoBehaviour
+{
+    [SerializeField] private Animator animator;
+
+    [SerializeField] private string animationAttackTrigger = "Attack";
+
+    [SerializeField] private float attackInterval = 2;
+
+    [SerializeField] private ThrowableWeapon weaponPrefab;
+
+    [SerializeField] private Transform throwPoint;
+
+    [SerializeField] private AudioSource throwAudioSource;
+
+    private void Start()
+    {
+        StartCoroutine(PerformAttack());
+    }
+
+    private IEnumerator PerformAttack()
+    {
+        while (true)
+        {
+            yield return new WaitForSeconds(attackInterval);
+            animator.SetTrigger(animationAttackTrigger);
+            ThrowWeapon();
+        }
+    }
+
+    private void ThrowWeapon()
+    {
+        ThrowableWeapon throwable = Instantiate(weaponPrefab.gameObject, throwPoint.position, Quaternion.identity)
+            .GetComponent<ThrowableWeapon>();
+        throwable.ThrowInDirection(transform.right * -1);
+        throwAudioSource.Play();
+    }
+}
+

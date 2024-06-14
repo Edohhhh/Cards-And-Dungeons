@@ -1,0 +1,743 @@
+fileFormatVersion: 2
+guid: 7862bed36b561c74eb43a5021c167178
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 23
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pilar_lanzallamas_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 522
+        width: 45
+        height: 57
+      alignment: 9
+      pivot: {x: 0.654855, y: 0.21211109}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20dfb944a3bdeda46a398ebe7c2f9e5b
+      internalID: 1990192777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pilar_lanzallamas_1
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 522
+        width: 45
+        height: 57
+      alignment: 9
+      pivot: {x: 0.6498596, y: 0.21211109}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4074bab42ddd240408c617324a55ac7d
+      internalID: -428169486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pilar_lanzallamas_2
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 522
+        width: 45
+        height: 57
+      alignment: 9
+      pivot: {x: 0.65485466, y: 0.21211109}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068901f5ae2b7004c9ee8a5765ad448e
+      internalID: -1148266544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pilar_lanzallamas_3
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 522
+        width: 45
+        height: 57
+      alignment: 9
+      pivot: {x: 0.65485436, y: 0.20816736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b11ed5f9bb23d34ebc039de89fb7512
+      internalID: -980869764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pilar_lanzallamas_4
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 522
+        width: 45
+        height: 57
+      alignment: 9
+      pivot: {x: 0.6498596, y: 0.20816736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff407e78f19be4408ea28e70ff99ab5
+      internalID: -655602661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pilar_lanzallamas_5
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 422
+        width: 45
+        height: 57
+      alignment: 9
+      pivot: {x: 0.654855, y: 0.22394226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ec7d178efac114796901ca7d804f07
+      internalID: 476221538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pilar_lanzallamas_6
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 422
+        width: 45
+        height: 57
+      alignment: 9
+      pivot: {x: 0.65485466, y: 0.219998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6baab7177d8919141a8972b8ca2aaeaa
+      internalID: 136051144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pilar_lanzallamas_7
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 422
+        width: 45
+        height: 57
+      alignment: 9
+      pivot: {x: 0.65485466, y: 0.21999854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c7ec5b25972ea438cbcafc73245714
+      internalID: 1484271031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pilar_lanzallamas_8
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 422
+        width: 43
+        height: 57
+      alignment: 9
+      pivot: {x: 0.6306912, y: 0.21211109}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c34d8c298b5b5644bbf795658640a43
+      internalID: 1919590847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pilar_lanzallamas_9
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 422
+        width: 41
+        height: 57
+      alignment: 9
+      pivot: {x: 0.6261016, y: 0.21605481}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def31cf2e852b60479fc5a76b733e307
+      internalID: 417572007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pilar_lanzallamas_10
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 322
+        width: 39
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5979851, y: 0.21999854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64721e445954a6240a678c8255786507
+      internalID: -1139420506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pilar_lanzallamas_11
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 322
+        width: 37
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5789799, y: 0.21605481}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac110b74185ee5f40a25a14bd6883eb5
+      internalID: 1924601846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pilar_lanzallamas_12
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 322
+        width: 35
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5578029, y: 0.21999854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1710673fbc815a4ebb4a6bb09c2f06f
+      internalID: -538171680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pilar_lanzallamas_13
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 322
+        width: 33
+        height: 57
+      alignment: 9
+      pivot: {x: 0.52724665, y: 0.21999854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4be904eda7648948938ab1f0f7a92f0
+      internalID: -1483039606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pilar_lanzallamas_14
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 322
+        width: 32
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5140486, y: 0.21605481}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ae8492a7836fb418a6195c0f8ce441
+      internalID: 1815865713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pilar_lanzallamas_15
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 222
+        width: 32
+        height: 57
+      alignment: 9
+      pivot: {x: 0.50702465, y: 0.21605481}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74ad1e744414b84087dffb22086fbae
+      internalID: 651836493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pilar_lanzallamas_16
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 222
+        width: 32
+        height: 57
+      alignment: 9
+      pivot: {x: 0.50702477, y: 0.21605481}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d61563afd9f4b4aa16bd90632ada7d
+      internalID: -205242988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pilar_lanzallamas_17
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 222
+        width: 32
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5210738, y: 0.21999854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0713aa87ae7db34998e1300c77391a1
+      internalID: -246173230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pilar_lanzallamas_18
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 222
+        width: 32
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5140486, y: 0.17530343}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d36e9edd4083e44b257528af9fe2a2
+      internalID: -1658972552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pilar_lanzallamas_19
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 222
+        width: 32
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5070238, y: 0.1826495}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81deab5ce62a459489b46d4452618682
+      internalID: -1410890965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pilar_lanzallamas_20
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 122
+        width: 32
+        height: 48
+      alignment: 9
+      pivot: {x: 0.50702465, y: 0.1815478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec4f9416f4b5844ab9820d7ba4ceed4
+      internalID: -662927501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pilar_lanzallamas_21
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 122
+        width: 32
+        height: 45
+      alignment: 9
+      pivot: {x: 0.49297523, y: 0.20027974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00e4e47a7a3bdf4ba0784c9191e49cb
+      internalID: 794713575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pilar_lanzallamas_22
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 122
+        width: 32
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5070243, y: 0.22168878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172a3a7389bc86247b5c8f8c5e18393b
+      internalID: -1523560261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pilar_lanzallamas_23
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 122
+        width: 32
+        height: 39
+      alignment: 9
+      pivot: {x: 0.49297428, y: 0.23486328}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3929af0ca9256549b3f530b5e28c107
+      internalID: -294406841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pilar_lanzallamas_24
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 122
+        width: 32
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5070238, y: 0.23774508}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a02aeaf095ee9428d1f48590eb3310
+      internalID: -1719759567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pilar_lanzallamas_25
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 22
+        width: 32
+        height: 33
+      alignment: 9
+      pivot: {x: 0.49999988, y: 0.22752722}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd0a025b23d64c4cbef97233de2efb5
+      internalID: 2092622607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pilar_lanzallamas_26
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 22
+        width: 32
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2452383}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2d9b0fd28a2874eb6a02cd69f9ab76
+      internalID: -1228646416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pilar_lanzallamas_27
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 22
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1155d2af2732bab41b7aed7ad23b2b3e
+      internalID: -167618297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Pilar_lanzallamas_0: 1990192777
+      Pilar_lanzallamas_1: -428169486
+      Pilar_lanzallamas_10: -1139420506
+      Pilar_lanzallamas_11: 1924601846
+      Pilar_lanzallamas_12: -538171680
+      Pilar_lanzallamas_13: -1483039606
+      Pilar_lanzallamas_14: 1815865713
+      Pilar_lanzallamas_15: 651836493
+      Pilar_lanzallamas_16: -205242988
+      Pilar_lanzallamas_17: -246173230
+      Pilar_lanzallamas_18: -1658972552
+      Pilar_lanzallamas_19: -1410890965
+      Pilar_lanzallamas_2: -1148266544
+      Pilar_lanzallamas_20: -662927501
+      Pilar_lanzallamas_21: 794713575
+      Pilar_lanzallamas_22: -1523560261
+      Pilar_lanzallamas_23: -294406841
+      Pilar_lanzallamas_24: -1719759567
+      Pilar_lanzallamas_25: 2092622607
+      Pilar_lanzallamas_26: -1228646416
+      Pilar_lanzallamas_27: -167618297
+      Pilar_lanzallamas_3: -980869764
+      Pilar_lanzallamas_4: -655602661
+      Pilar_lanzallamas_5: 476221538
+      Pilar_lanzallamas_6: 136051144
+      Pilar_lanzallamas_7: 1484271031
+      Pilar_lanzallamas_8: 1919590847
+      Pilar_lanzallamas_9: 417572007
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
